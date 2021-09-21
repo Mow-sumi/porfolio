@@ -1,0 +1,74 @@
+
+body{
+    background:#052142;
+    color: white;
+}
+
+.text-type{
+    font-size: 40px;
+    color: purple;
+    margin-bottom: 20px;
+}
+
+ul{
+    list-style: none;
+  
+}
+
+
+strong{
+    color: purple;
+    font-size: 18px;
+}
+
+
+
+
+.text-color{
+    color: purple;
+}
+
+h2 ,h1{
+    font-weight: 700px;
+    font-size: 40px;
+}
+
+.fa-code,.fa-js-square, .fa-reacteurope ,.fa-css3-alt,.fa-bootstrap, .fa-node,.fa-quote-left,.fa-photo-video,.fa-css3{
+    font-size: 100px;
+    color: purple;
+}
+
+.fa-quote-left:hover{
+    color: brown;
+    transition: all 0.5 ease-in-out;
+}
+.fa-node:hover{
+    color: brown;
+    transition: all 0.5 ease-in-out;
+}
+
+.fa-bootstrap:hover{
+    color: brown;
+    transition: all 0.5 ease-in-out;
+}
+
+.fa-css3-alt:hover{
+    color: brown;
+    transition: all 0.5 ease-in-out;
+}
+
+.fa-code:hover{
+    color:brown;
+    transition: all 0.5 ease-in-out;
+}
+.fa-js-square:hover{
+    color:brown;
+    transition: all 0.5 ease-in-out;
+}
+
+.fa-reacteurope:hover{
+    color:brown;
+    transition: all 0.5 ease-in-out;
+}
+
+
