@@ -1,15 +1,9 @@
 import React, { useRef } from 'react';
 import Navbar from '../Navbar/Navbar';
-// import { db } from '../../firebase';
 import './Contact.css';
 import emailjs from 'emailjs-com';
 
 const Contact = () => {
-
-    // const [name, setName] = useState("");
-    // const [email, setEmail] = useState("");
-    // const [message, setMessage] = useState("");
-
     const form = useRef();
 
     const sendEmail = (e) => {
