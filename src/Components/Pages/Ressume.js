@@ -12,7 +12,7 @@ const Ressume = () => {
                         <h3>Mowsumi Akter</h3>
                         <h5>Address : 74 Crescent Road, Dhanmondi, Dhaka-1205.</h5>
                         <h5>Cell : 01796-952646 </h5>
-                        <h5>Email : mow.csediu@gmail.com </h5>
+                        <h5>Email : mow521202sumi@gmail.com </h5>
                         <h5>Portfolio : <a href="https://mow-sumi.github.io/portfolio-website/ " target="_blank" rel="noopener noreferrer">https://mow-sumi.github.io/portfolio-website/</a></h5>
                         <h5>GitHub : <a href="https://github.com/mow-sumi" target="_blank" rel="noopener noreferrer">https://github.com/mow-sumi</a></h5>
                     </div>
@@ -267,7 +267,7 @@ const Ressume = () => {
 
                 <div className="text-lg fs-4 mt-3">
                  <p>⮚Engineer Md.Azizul Aman Al Amin (Dept of CSE Bogura polytechnic Institute,Bogura)  cell : 01712-685203</p>
-                 <p>⮚Md.Tahzib-Ul-islam Head of the Department of Computer Assistant professor (Dhaka International University)   Email: tahzib.cse@diu.ac  </p>
+                 <p>⮚Md.Tahzib-Ul-islam Head of the Department of Computer Assistant professor (Dhaka International University) cell: 01717-041584  Email: tahzib.cse@diu.ac  </p>
                  
                 </div>
             </div>
